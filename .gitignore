@@ -1,0 +1,5 @@
+.vscode/c_cpp_properties.json
+build
+*.json
+lib
+bin/read_yaml
