@@ -4,7 +4,7 @@
 - 整幅图像的像素label值
 - 每个像素的置信度图
 
-分割网络见[LEDNet]()。
+分割网络见[LEDNet](https://github.com/alalagong/LEDNet)。
 
 ## 2. `yaml`文件的格式
 `data/`文件夹下有两个示例，具体格式如下：
